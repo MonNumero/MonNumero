@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring Android developer with a focus on crafting innovative mobile applications. My goal is to elevate user experience through clean code and quality design.
 
 <!--
 **MonNumero/MonNumero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
